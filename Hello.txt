@@ -1,1 +1,2 @@
 Hei Git!
+Jeg lærer Git!
